@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>30</x>
+      <y>90</y>
+      <w>260</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>User
+--
+UserId
+Username
+PasswordHash
+PasswordSalt
+Email</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>30</x>
+      <y>300</y>
+      <w>260</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>Transaction
+--
+TransactionId
+UserId
+CategoryId
+Amount
+Date
+Description</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>150</x>
+      <y>210</y>
+      <w>40</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=1
+m2=*</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;90.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>150</x>
+      <y>420</y>
+      <w>40</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=1
+m2=*</panel_attributes>
+    <additional_attributes>10.0;80.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>30</x>
+      <y>500</y>
+      <w>260</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>Category
+--
+CategoryId
+Name</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>370</x>
+      <y>90</y>
+      <w>260</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>Settings
+--
+SettingsId
+UserId
+Currency</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>280</x>
+      <y>150</y>
+      <w>110</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m1=1
+m2=*</panel_attributes>
+    <additional_attributes>10.0;10.0;90.0;10.0</additional_attributes>
+  </element>
+</diagram>
