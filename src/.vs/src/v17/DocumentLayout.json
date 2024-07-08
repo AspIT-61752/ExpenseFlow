@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50AE8405-7F27-4755-BB89-42904660CDC9}|ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj|c:\\users\\tsh40\\source\\repos\\aspit-61752\\expenseflow\\src\\expenseflow.entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50AE8405-7F27-4755-BB89-42904660CDC9}|ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj|solutionrelative:expenseflow.entity\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2B852A-BF40-4817-AF9D-0B57E4E31540}|ExpenseFlow.Context\\ExpenseFlow.Context.csproj|c:\\users\\tsh40\\source\\repos\\aspit-61752\\expenseflow\\src\\expenseflow.context\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2B852A-BF40-4817-AF9D-0B57E4E31540}|ExpenseFlow.Context\\ExpenseFlow.Context.csproj|solutionrelative:expenseflow.context\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2B852A-BF40-4817-AF9D-0B57E4E31540}|ExpenseFlow.Context\\ExpenseFlow.Context.csproj|c:\\users\\tsh40\\source\\repos\\aspit-61752\\expenseflow\\src\\expenseflow.context\\expenseflow.context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C2B852A-BF40-4817-AF9D-0B57E4E31540}|ExpenseFlow.Context\\ExpenseFlow.Context.csproj|solutionrelative:expenseflow.context\\expenseflow.context.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EA5B84-9ED9-4655-B131-F335A8F60902}|ExpenseFlow.API\\ExpenseFlow.API.csproj|c:\\users\\tsh40\\source\\repos\\aspit-61752\\expenseflow\\src\\expenseflow.api\\expenseflow.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81EA5B84-9ED9-4655-B131-F335A8F60902}|ExpenseFlow.API\\ExpenseFlow.API.csproj|solutionrelative:expenseflow.api\\expenseflow.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExpenseFlow.API",
+              "DocumentMoniker": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.API\\ExpenseFlow.API.csproj",
+              "RelativeDocumentMoniker": "ExpenseFlow.API\\ExpenseFlow.API.csproj",
+              "ToolTip": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.API\\ExpenseFlow.API.csproj",
+              "RelativeToolTip": "ExpenseFlow.API\\ExpenseFlow.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T19:39:06.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpenseFlow.Context",
+              "DocumentMoniker": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\ExpenseFlow.Context.csproj",
+              "RelativeDocumentMoniker": "ExpenseFlow.Context\\ExpenseFlow.Context.csproj",
+              "ToolTip": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\ExpenseFlow.Context.csproj",
+              "RelativeToolTip": "ExpenseFlow.Context\\ExpenseFlow.Context.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-08T19:37:19.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\Class1.cs",
+              "RelativeDocumentMoniker": "ExpenseFlow.Context\\Class1.cs",
+              "ToolTip": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\Class1.cs",
+              "RelativeToolTip": "ExpenseFlow.Context\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:36:51.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\Class1.cs",
+              "RelativeDocumentMoniker": "ExpenseFlow.Entity\\Class1.cs",
+              "ToolTip": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\Class1.cs",
+              "RelativeToolTip": "ExpenseFlow.Entity\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T19:17:41.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

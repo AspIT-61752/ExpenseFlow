@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S70o/yt7i8xUGyjD+/URWM4aJbDaim8igxk5KSnvIL0=",
+  "Source": "ExpenseFlow.API",
+  "BasePath": "_content/ExpenseFlow.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
