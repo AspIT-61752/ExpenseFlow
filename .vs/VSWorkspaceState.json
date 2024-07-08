@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\doc",
+    "\\doc\\case",
+    "\\src"
   ],
+  "SelectedNode": "\\doc\\case",
   "PreviewInSolutionExplorer": false
 }
