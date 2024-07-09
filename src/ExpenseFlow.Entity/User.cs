@@ -14,9 +14,9 @@ public class User
 
     #region Constructors
 
-    //public User()
-    //{
-    //}
+    public User()
+    {
+    }
 
     public User(int userId, string userName, string passwordHash, string passwordSalt, string email)
     {

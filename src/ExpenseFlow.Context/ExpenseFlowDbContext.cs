@@ -32,6 +32,17 @@ namespace ExpenseFlow.Context
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // TODO: Add default data
+
+            base.OnModelCreating(modelBuilder);
+
+            modelBuilder.Entity<User>().HasData(new User
+            {
+                UserId = 1,
+                UserName = "Mads Mikkelsen",
+                PasswordHash = "123",
+                PasswordSalt = "123",
+                Email = "MadsMikkelsen@gmail.com"
+            });
         }
     }
 }
