@@ -15,4 +15,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ExpenseFlow.Entity\ExpenseFlow.Entity.csproj" />
+  </ItemGroup>
+
 </Project>

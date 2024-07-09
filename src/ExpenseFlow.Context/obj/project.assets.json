@@ -1502,6 +1502,16 @@
             "rid": "win"
           }
         }
+      },
+      "ExpenseFlow.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ExpenseFlow.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExpenseFlow.Entity.dll": {}
+        }
       }
     }
   },
@@ -4096,10 +4106,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ExpenseFlow.Entity/1.0.0": {
+      "type": "project",
+      "path": "../ExpenseFlow.Entity/ExpenseFlow.Entity.csproj",
+      "msbuildProject": "../ExpenseFlow.Entity/ExpenseFlow.Entity.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "ExpenseFlow.Entity >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.6",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.6",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.6"
@@ -4137,7 +4153,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj": {
+              "projectPath": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
