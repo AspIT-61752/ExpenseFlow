@@ -1,0 +1,54 @@
+﻿@page "/users"
+@using ExpenseFlow.Entity
+@using Microsoft.AspNetCore.Mvc.RazorPages
+@inject HttpClient Http
+@rendermode InteractiveServer
+
+<h3>Users</h3>
+
+<p class="card-header">Users</p>
+
+<!-- <button class="btn btn-primary" @onclick="GetUsers">Get Users</button> -->
+
+@if (users == null)
+{
+    // make a loading spinner
+    <p><em>Loading...</em></p>
+    // If it takes too long, show a message that it's taking too long or that there was an error
+}
+else
+{
+    <table class="table-bordered">
+        <thead>
+            <tr>
+                <th>User ID</th>
+                <th>Username</th>
+                <td>PasswordSalt</td>
+                <td>PasswordHash</td>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in users)
+            {
+                <tr>
+                    <td>@user.UserId</td>
+                    <td>@user.UserName</td>
+                    <td>@user.PasswordSalt</td>
+                    <td>@user.PasswordHash</td>
+                    <td>@user.Email</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+
+    private List<User> users = new();
+    protected override async Task OnInitializedAsync()
+    {
+        users = (await Http.GetFromJsonAsync<IEnumerable<User>>("User/GetAllUsers")).ToList();
+    }
+    // https://learn.microsoft.com/en-us/aspnet/core/blazor/call-web-api?view=aspnetcore-8.0
+}

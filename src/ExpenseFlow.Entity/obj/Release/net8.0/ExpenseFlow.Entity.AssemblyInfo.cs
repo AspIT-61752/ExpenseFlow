@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExpenseFlow.Entity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ddd6ac698cb6f1bd7ec94802e1da6a538fca109")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96e16a6347b7af49d19fc9704c07c417646a1e82")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpenseFlow.Entity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpenseFlow.Entity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
