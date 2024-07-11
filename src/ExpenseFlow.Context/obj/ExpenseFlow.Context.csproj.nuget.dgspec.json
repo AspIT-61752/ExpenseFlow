@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\ExpenseFlow.Context.csproj": {}
+    "C:\\Users\\tsh40\\Source\\Repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\ExpenseFlow.Context.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\ExpenseFlow.Context.csproj": {
+    "C:\\Users\\tsh40\\Source\\Repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\ExpenseFlow.Context.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\ExpenseFlow.Context.csproj",
+        "projectUniqueName": "C:\\Users\\tsh40\\Source\\Repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\ExpenseFlow.Context.csproj",
         "projectName": "ExpenseFlow.Context",
-        "projectPath": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\ExpenseFlow.Context.csproj",
+        "projectPath": "C:\\Users\\tsh40\\Source\\Repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\ExpenseFlow.Context.csproj",
         "packagesPath": "C:\\Users\\tsh40\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\obj\\",
         "projectStyle": "PackageReference",
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj": {
-                "projectPath": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj"
+              "C:\\Users\\tsh40\\Source\\Repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj": {
+                "projectPath": "C:\\Users\\tsh40\\Source\\Repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj"
               }
             }
           }
@@ -89,12 +89,12 @@
         }
       }
     },
-    "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj": {
+    "C:\\Users\\tsh40\\Source\\Repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj",
+        "projectUniqueName": "C:\\Users\\tsh40\\Source\\Repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj",
         "projectName": "ExpenseFlow.Entity",
-        "projectPath": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj",
+        "projectPath": "C:\\Users\\tsh40\\Source\\Repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\ExpenseFlow.Entity.csproj",
         "packagesPath": "C:\\Users\\tsh40\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Entity\\obj\\",
         "projectStyle": "PackageReference",

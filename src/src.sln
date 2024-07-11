@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpenseFlow.Entity", "Expen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpenseFlow.Context", "ExpenseFlow.Context\ExpenseFlow.Context.csproj", "{3C2B852A-BF40-4817-AF9D-0B57E4E31540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseFlow.Web", "ExpenseFlow.Web\ExpenseFlow.Web.csproj", "{6E49B72E-224A-4053-A2CF-F0463863D61D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpenseFlow.Web", "ExpenseFlow.Web\ExpenseFlow.Web.csproj", "{6E49B72E-224A-4053-A2CF-F0463863D61D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseFlow.Webpage", "ExpenseFlow.Webpage\ExpenseFlow.Webpage.csproj", "{5340AF01-5189-4116-9731-608B4D28D797}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExpenseFlow.Webpage", "ExpenseFlow.Webpage\ExpenseFlow.Webpage.csproj", "{5340AF01-5189-4116-9731-608B4D28D797}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

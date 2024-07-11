@@ -6,9 +6,9 @@ namespace ExpenseFlow.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class UserController(IRepository<User> repo) : Controller
+    public class UserController(IUserRepository repo) : Controller
     {
-        private readonly IRepository<User> repo = repo;
+        private readonly IUserRepository repo = repo;
 
         [HttpPost]
         public void AddNewUser([FromQuery] User user)
@@ -47,6 +47,20 @@ namespace ExpenseFlow.API.Controllers
         public User GetUserBy([FromQuery] int id)
         {
             return repo.GetBy(id);
+        }
+
+        [HttpGet]
+        [Route(nameof(UserExists))]
+        public bool UserExists([FromQuery] string userName)
+        {
+            return repo.UserExists(userName);
+        }
+
+        [HttpGet]
+        [Route(nameof(EmailExists))]
+        public bool EmailExists([FromQuery] string email)
+        {
+            return repo.EmailExists(email);
         }
     }
 }

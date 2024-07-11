@@ -1,0 +1,58 @@
+﻿@page "/register"
+@rendermode InteractiveServer
+<h3>Register</h3>
+
+<form @onsubmit="HandleRegister">
+    <input type="text" placeholder="username" @bind="username"/>
+    <input type="text" placeholder="password" @bind="password" />
+    <input type="text" placeholder="email" @bind="email" />
+    <button type="submit">Register</button>
+</form>
+
+@code {
+    private string username;
+    private string password;
+    private string email;
+
+    private async Task HandleRegister()
+    {
+        var isValid = await CheckIfValid(username, password);
+        if (isValid)
+        {
+            RegisterUser(username, password);
+        }
+    }
+
+    private async Task<bool> CheckIfValid(string username, string password)
+    {
+        bool isValid = true;
+        if (string.IsNullOrEmpty(username) || string.IsNullOrEmpty(password))
+        {
+            isValid = false;
+            // Tell the user that the username and password are required
+
+            return isValid;
+        }
+
+        // Check if the username is already taken
+        var isUsernameAvailable = await Http.GetFromJsonAsync<bool>($"User/UserExists?userName={username}");
+        if (!isUsernameAvailable)
+        {
+            isValid = false;
+            // Tell the user that the username is already taken
+
+            return isValid;
+        }
+
+        return isValid;
+    }
+
+    private async Task<bool> RegisterUser(string username, string password)
+    {
+        // URL: User?UserName=A&PasswordHash=A&PasswordSalt=A&Email=A
+        // Make a POST request to the User/Register endpoint
+        // TODO: Implement a Register method in the User controller. It should only take a Username, Password and Email.
+        var response = await Http.PostAsJsonAsync("User/Register", new User { UserName = this.username, Password = this.password });
+        return response.IsSuccessStatusCode;
+    }
+}
