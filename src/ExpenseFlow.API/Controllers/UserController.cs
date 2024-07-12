@@ -62,5 +62,12 @@ namespace ExpenseFlow.API.Controllers
         {
             return repo.EmailExists(email);
         }
+
+        [HttpPost]
+        [Route(nameof(RegisterUser))]
+        public void RegisterUser([FromQuery] string username, [FromQuery] string email, [FromQuery] string password)
+        {
+            repo.RegisterUser(username, email, password);
+        }
     }
 }

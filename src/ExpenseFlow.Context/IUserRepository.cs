@@ -11,5 +11,6 @@ namespace ExpenseFlow.Context
     {
         bool UserExists(string userName);
         bool EmailExists(string email);
+        void RegisterUser(string username, string email, string password);
     }
 }
