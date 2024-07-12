@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81EA5B84-9ED9-4655-B131-F335A8F60902}|ExpenseFlow.API\\ExpenseFlow.API.csproj|c:\\users\\tsh40\\source\\repos\\aspit-61752\\expenseflow\\src\\expenseflow.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81EA5B84-9ED9-4655-B131-F335A8F60902}|ExpenseFlow.API\\ExpenseFlow.API.csproj|solutionrelative:expenseflow.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E49B72E-224A-4053-A2CF-F0463863D61D}|ExpenseFlow.Web\\ExpenseFlow.Web.csproj|c:\\users\\tsh40\\source\\repos\\aspit-61752\\expenseflow\\src\\expenseflow.web\\components\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6E49B72E-224A-4053-A2CF-F0463863D61D}|ExpenseFlow.Web\\ExpenseFlow.Web.csproj|solutionrelative:expenseflow.web\\components\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C2B852A-BF40-4817-AF9D-0B57E4E31540}|ExpenseFlow.Context\\ExpenseFlow.Context.csproj|c:\\users\\tsh40\\source\\repos\\aspit-61752\\expenseflow\\src\\expenseflow.context\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C2B852A-BF40-4817-AF9D-0B57E4E31540}|ExpenseFlow.Context\\ExpenseFlow.Context.csproj|solutionrelative:expenseflow.context\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C2B852A-BF40-4817-AF9D-0B57E4E31540}|ExpenseFlow.Context\\ExpenseFlow.Context.csproj|c:\\users\\tsh40\\source\\repos\\aspit-61752\\expenseflow\\src\\expenseflow.context\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C2B852A-BF40-4817-AF9D-0B57E4E31540}|ExpenseFlow.Context\\ExpenseFlow.Context.csproj|solutionrelative:expenseflow.context\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E49B72E-224A-4053-A2CF-F0463863D61D}|ExpenseFlow.Web\\ExpenseFlow.Web.csproj|c:\\users\\tsh40\\source\\repos\\aspit-61752\\expenseflow\\src\\expenseflow.web\\components\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6E49B72E-224A-4053-A2CF-F0463863D61D}|ExpenseFlow.Web\\ExpenseFlow.Web.csproj|solutionrelative:expenseflow.web\\components\\pages\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E49B72E-224A-4053-A2CF-F0463863D61D}|ExpenseFlow.Web\\ExpenseFlow.Web.csproj|c:\\users\\tsh40\\source\\repos\\aspit-61752\\expenseflow\\src\\expenseflow.web\\components\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6E49B72E-224A-4053-A2CF-F0463863D61D}|ExpenseFlow.Web\\ExpenseFlow.Web.csproj|solutionrelative:expenseflow.web\\components\\pages\\users.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81EA5B84-9ED9-4655-B131-F335A8F60902}|ExpenseFlow.API\\ExpenseFlow.API.csproj|c:\\users\\tsh40\\source\\repos\\aspit-61752\\expenseflow\\src\\expenseflow.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81EA5B84-9ED9-4655-B131-F335A8F60902}|ExpenseFlow.API\\ExpenseFlow.API.csproj|solutionrelative:expenseflow.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2B852A-BF40-4817-AF9D-0B57E4E31540}|ExpenseFlow.Context\\ExpenseFlow.Context.csproj|c:\\users\\tsh40\\source\\repos\\aspit-61752\\expenseflow\\src\\expenseflow.context\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2B852A-BF40-4817-AF9D-0B57E4E31540}|ExpenseFlow.Context\\ExpenseFlow.Context.csproj|solutionrelative:expenseflow.context\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81EA5B84-9ED9-4655-B131-F335A8F60902}|ExpenseFlow.API\\ExpenseFlow.API.csproj|c:\\users\\tsh40\\source\\repos\\aspit-61752\\expenseflow\\src\\expenseflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Document",
@@ -92,14 +92,14 @@
               "RelativeDocumentMoniker": "ExpenseFlow.Context\\UserRepository.cs",
               "ToolTip": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\UserRepository.cs",
               "RelativeToolTip": "ExpenseFlow.Context\\UserRepository.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowCwAAAA+AAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T02:29:56.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Context\\IUserRepository.cs",
               "RelativeDocumentMoniker": "ExpenseFlow.Context\\IUserRepository.cs",
@@ -177,13 +177,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.API\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "ExpenseFlow.API\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.API\\Controllers\\UserController.cs",
               "RelativeToolTip": "ExpenseFlow.API\\Controllers\\UserController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAMAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAcwEIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T00:19:03.257Z",
               "EditorCaption": ""
@@ -294,26 +294,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Register.razor",
               "DocumentMoniker": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Web\\Components\\Pages\\Register.razor",
               "RelativeDocumentMoniker": "ExpenseFlow.Web\\Components\\Pages\\Register.razor",
               "ToolTip": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Web\\Components\\Pages\\Register.razor",
               "RelativeToolTip": "ExpenseFlow.Web\\Components\\Pages\\Register.razor",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAADYAAABAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEMAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-11T02:19:53.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Users.razor",
               "DocumentMoniker": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Web\\Components\\Pages\\Users.razor",
               "RelativeDocumentMoniker": "ExpenseFlow.Web\\Components\\Pages\\Users.razor",
               "ToolTip": "C:\\Users\\tsh40\\source\\repos\\AspIT-61752\\ExpenseFlow\\src\\ExpenseFlow.Web\\Components\\Pages\\Users.razor",
               "RelativeToolTip": "ExpenseFlow.Web\\Components\\Pages\\Users.razor",
-              "ViewState": "AQIAACEAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-09T16:32:03.966Z",
               "EditorCaption": ""
